@@ -24,7 +24,7 @@ Thus, churn prediction is usually more critical (and non-trivial) for prepaid cu
 
 This project is based on the Indian and Southeast Asian market.
 
-## Definitions of Churn
+## Definitions of Churn 
 
 There are various ways to define churn, such as:
 
